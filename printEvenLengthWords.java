@@ -1,6 +1,6 @@
-//print even length words from a string
-import java.util.Scanner;
+// Day-01 write a java to print even length words from a string
 
+import java.util.Scanner;
 public class printEvenLengthWords {
 
 	public static void main(String[] args) {
