@@ -38,5 +38,4 @@ public class findMissingNumber {
 	now we need check the value is present or not by using inbuilt method set.contains() 
 	using this i have used simple for loop which runs from 0 to max value and checks if the hashset contains the number or not 
 	if number is present just print it
-	
  *  */
